@@ -54,12 +54,10 @@ Key features and functionalities include:
 •	Streamline administrative tasks
 
 main page:
- 
+![Screenshot 2024-11-08 at 11 42 04 AM](https://github.com/user-attachments/assets/f3b2e8e2-7331-46c2-8a0d-cf9ab8b28293)
 
 Destination Page:
-
-
- 
+![Screenshot 2024-11-08 at 11 42 46 AM](https://github.com/user-attachments/assets/7e8991a1-e0da-405a-ac4a-a4913e0f3754)
 
 and more pages...
 
@@ -71,6 +69,3 @@ and more pages...
 
 Author -Siddharth Bhogla
 
-
-
-![image](https://github.com/user-attachments/assets/bc2af5fd-422a-4ba4-b1f5-9bd26ee454a1)
