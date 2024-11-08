@@ -56,12 +56,12 @@ Key features and functionalities include:
 main page:
 ![Screenshot 2024-11-08 at 11 42 04 AM](https://github.com/user-attachments/assets/f3b2e8e2-7331-46c2-8a0d-cf9ab8b28293)
 
-Destination Page:
+Department Page:
 ![Screenshot 2024-11-08 at 11 42 46 AM](https://github.com/user-attachments/assets/7e8991a1-e0da-405a-ac4a-a4913e0f3754)
 
 and more pages...
 
-**Built With:**
+**Built With**
 
 •	HTML, CSS
 •	Bootstrap - The web framework used
